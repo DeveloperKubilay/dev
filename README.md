@@ -5,7 +5,7 @@ This is an unofficial fork of Ice And Fire
 
 Edited by Developer Kubilay
 
-![Download](https://github.com/DeveloperKubilay/dev/releases)
+[Download](https://github.com/DeveloperKubilay/dev/releases)
 
 # Ice and Fire
 
